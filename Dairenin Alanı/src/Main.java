@@ -11,6 +11,5 @@ public class Main {
         p = Math.PI;
         double daireAlanı = (p*(r*r)*a)/(360);
         System.out.println("Alan : "+daireAlanı);
-
     }
 }
