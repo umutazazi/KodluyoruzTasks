@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml" filepath="$PROJECT_DIR$/Dairenin Alanı/Dairenin Alanı.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dik Üçgende Alan/Dik Üçgende Alan.iml" filepath="$PROJECT_DIR$/Dik Üçgende Alan/Dik Üçgende Alan.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDV Tutarı Hesabı/KDV Tutarı Hesabı.iml" filepath="$PROJECT_DIR$/KDV Tutarı Hesabı/KDV Tutarı Hesabı.iml" />
       <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
