@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Dik Üçgende Alan/Dik Üçgende Alan.iml" filepath="$PROJECT_DIR$/Dik Üçgende Alan/Dik Üçgende Alan.iml" />
       <module fileurl="file://$PROJECT_DIR$/KDV Tutarı Hesabı/KDV Tutarı Hesabı.iml" filepath="$PROJECT_DIR$/KDV Tutarı Hesabı/KDV Tutarı Hesabı.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Taksimetre/Taksimetre.iml" filepath="$PROJECT_DIR$/Taksimetre/Taksimetre.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/patika_projeleri.iml" filepath="$PROJECT_DIR$/.idea/patika_projeleri.iml" />
       <module fileurl="file://$PROJECT_DIR$/Grade Point Average Calculator/projects.iml" filepath="$PROJECT_DIR$/Grade Point Average Calculator/projects.iml" />
     </modules>
