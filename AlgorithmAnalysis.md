@@ -9,7 +9,7 @@
 ---
 
 ## Time Complexity
-  18 için Average Case
+  > 18 için Average Case
 ---
 
 Patika.dev profilim:[https://app.patika.dev/umtazazi](https://app.patika.dev/umtazazi)
